@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mark-Walen
-- 👀 I’m interested in Java EE and WebSecurity
+- 👀 I’m interested in Java EE, WebSecurity, Embed Technology.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Backend Engineer.
 - 📫 How to reach me: mark_walen@qq.com
 
 <!---
