@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mark-Walen
-- 👀 I’m interested in Java EE, WebSecurity, Embed Technology.
+- 👀 I’m interested in WebSecurity, Embed Technology.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Backend Engineer.
-- 📫 How to reach me: mark_walen@qq.com
+- 📫 How to reach me: walen.mark2509758@gmail.com
 
 <!---
 Mark-Walen/Mark-Walen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
